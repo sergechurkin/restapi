@@ -34,3 +34,6 @@ composer create-project sergechurkin/restapi path "1.1.x-dev"
 [ссылке]( http://sergechurkin-guestbook.vacau.com/restapitest.php). 
 В результате выполнения будет получена запись таблицы  приложения 
 [Гостевая книга](https://github.com/sergechurkin/guestbook) в формате `json`.
+
+Приложение зарегистрировано на
+[packagist](https://packagist.org/packages/sergechurkin/restapi).
