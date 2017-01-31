@@ -1,0 +1,27 @@
+{
+    "name": "sergechurkin/restapi",
+    "description": "PHP RESTful API for mySql supports POST, GET, PUT, DELETE and HEAD, TRACE methods",
+    "keywords": ["RESTful", "REST", "API", "PUT", "git tag 1.1-dev"],
+    "type": "API",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "support": {
+        "issues": "https://github.com/sergechurkin/restapi/issues",
+        "source": "https://github.com/sergechurkin/restapi"
+    },
+    "authors": [
+        {
+            "name": "sergechurkin",
+            "email": "s-churkin@yandex.ru"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.1.x-dev"
+        }
+    }
+}
