@@ -4,7 +4,7 @@ PHP RESTful API for mySql supports POST, GET, PUT, DELETE and HEAD, TRACE method
 ## Установка
 
 ```
-composer create-project sergechurkin/restapi path "1.1.x-dev"
+composer create-project sergechurkin/restapi restapi "1.1.x-dev"
 ```
 
 Параметры подключения к базе MySQL задаются в `params.php`.
